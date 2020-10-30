@@ -13,3 +13,6 @@
 	path = fel_megaprint
 	url = git@github.com:rocketgithub/fel_megaprint.git
 	branch = 13.0
+[submodule "pos_lot_check"]
+	path = pos_lot_check
+	url = git@github.com:rocketgithub/pos_lot_check.git
