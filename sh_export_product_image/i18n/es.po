@@ -1,0 +1,161 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_export_product_image
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-20 11:55+0000\n"
+"PO-Revision-Date: 2020-10-20 11:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_tmpl__file_name__barcode
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_var__file_name__barcode
+msgid "Barcode"
+msgstr "Código de barras"
+
+#. module: sh_export_product_image
+#: model_terms:ir.ui.view,arch_db:sh_export_product_image.sh_export_product_image_product_tmpl_wizard_form
+#: model_terms:ir.ui.view,arch_db:sh_export_product_image.sh_export_product_image_product_varient_wizard_form
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__create_uid
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__create_date
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__display_name
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__display_name
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. module: sh_export_product_image
+#: model_terms:ir.ui.view,arch_db:sh_export_product_image.sh_export_product_image_product_tmpl_wizard_form
+#: model_terms:ir.ui.view,arch_db:sh_export_product_image.sh_export_product_image_product_varient_wizard_form
+msgid "Export"
+msgstr "Exportar"
+
+#. module: sh_export_product_image
+#: model:ir.actions.act_window,name:sh_export_product_image.sh_export_product_image_product_tmpl_action
+#: model:ir.actions.act_window,name:sh_export_product_image.sh_export_product_image_product_varient_action
+msgid "Export Images"
+msgstr "Imágenes de exportación"
+
+#. module: sh_export_product_image
+#: model:ir.model,name:sh_export_product_image.model_sh_export_product_image_tmpl
+msgid "Export Product Image Template"
+msgstr "Imagen de la exportación del producto"
+
+#. module: sh_export_product_image
+#: model:ir.model,name:sh_export_product_image.model_sh_export_product_image_var
+msgid "Export Product Image Varient"
+msgstr "Imagen del producto de exportación Varient"
+
+#. module: sh_export_product_image
+#: model:res.groups,name:sh_export_product_image.sh_export_product_image_group
+#: model_terms:ir.ui.view,arch_db:sh_export_product_image.sh_export_product_image_product_tmpl_wizard_form
+msgid "Export Product Images"
+msgstr "Imágenes de exportación del producto"
+
+#. module: sh_export_product_image
+#: model_terms:ir.ui.view,arch_db:sh_export_product_image.sh_export_product_image_product_varient_wizard_form
+msgid "Export Product Varients Images"
+msgstr "Imágenes de exportación del producto varients"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__zip_file_name
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__zip_file_name
+msgid "File Name"
+msgstr "Nombre del archivo"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__id
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__id
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_tmpl__file_name__id
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_var__file_name__id
+msgid "ID"
+msgstr "CARNÉ DE IDENTIDAD"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__file_name
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__file_name
+msgid "Image Name As"
+msgstr "Como Nombre de la imagen"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_tmpl__file_name__default_code
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_var__file_name__default_code
+msgid "Internal Reference"
+msgstr "Referencia interna"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl____last_update
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var____last_update
+msgid "Last Modified on"
+msgstr "Modificada por última vez"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__write_uid
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización realizada por"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__write_date
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_tmpl__file_name__name
+#: model:ir.model.fields.selection,name:sh_export_product_image.selection__sh_export_product_image_var__file_name__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__product_varient_ids
+msgid "Product Varients"
+msgstr "varients producto"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__product_tmpl_ids
+msgid "Products"
+msgstr "productos"
+
+#. module: sh_export_product_image
+#: code:addons/sh_export_product_image/wizard/product_tmpl_multi_action.py:0
+#: code:addons/sh_export_product_image/wizard/product_var_multi_action.py:0
+#, python-format
+msgid ""
+"Programming error: wizard action executed without active_ids in context."
+msgstr ""
+"error de programación: la acción ejecutada sin asistente active_ids en contexto."
+
+#. module: sh_export_product_image
+#: code:addons/sh_export_product_image/wizard/product_tmpl_multi_action.py:0
+#: code:addons/sh_export_product_image/wizard/product_var_multi_action.py:0
+#, python-format
+msgid "Something went wrong! "
+msgstr "¡Algo salió mal!"
+
+#. module: sh_export_product_image
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_tmpl__file
+#: model:ir.model.fields,field_description:sh_export_product_image.field_sh_export_product_image_var__file
+msgid "Zip"
+msgstr "Código Postal"
